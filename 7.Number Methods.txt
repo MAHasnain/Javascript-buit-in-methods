@@ -1,0 +1,7 @@
+
+**Number Methods**
+1. `toFixed()`
+2. `toPrecision()`
+3. `toString()`
+4. `parseInt()`
+5. `parseFloat()`

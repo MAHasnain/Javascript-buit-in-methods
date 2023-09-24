@@ -1,0 +1,16 @@
+
+
+
+**DOM (Document Object Model) Methods:**
+1. `getElementById()`
+2. `getElementsByTagName()`
+3. `getElementsByClassName()`
+4. `querySelector()`
+5. `querySelectorAll()`
+6. `addEventListener()`
+7. `removeEventListener()`
+8. `appendChild()`
+9. `removeChild()`
+10. `setAttribute()`
+11. `getAttribute()`
+12. `innerHTML`

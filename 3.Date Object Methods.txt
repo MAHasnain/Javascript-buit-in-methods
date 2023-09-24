@@ -1,0 +1,18 @@
+
+
+
+**Date Object Methods:**
+1. `getDate()`
+2. `getMonth()`
+3. `getFullYear()`
+4. `getHours()`
+5. `getMinutes()`
+6. `getSeconds()`
+7. `getMilliseconds()`
+8. `toISOString()`
+9. `toLocaleDateString()`
+10. `toLocaleTimeString()`
+
+
+
+

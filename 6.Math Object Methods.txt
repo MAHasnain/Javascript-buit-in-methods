@@ -1,0 +1,32 @@
+
+**Math Object Methods:**
+1. `Math.abs()`
+2. `Math.ceil()`
+3. `Math.floor()`
+4. `Math.max()`
+5. `Math.min()`
+6. `Math.round()`
+7. `Math.random()`
+8. `Math.sqrt()`
+9. `Math.pow()`
+
+
+
+
+**Math Object**
+1. `Math.abs()`: Returns the absolute value of a number.
+2. `Math.ceil()`: Rounds a number up to the nearest integer.
+3. `Math.floor()`: Rounds a number down to the nearest integer.
+4. `Math.round()`: Rounds a number to the nearest integer.
+5. `Math.max()`: Returns the largest of zero or more numbers.
+6. `Math.min()`: Returns the smallest of zero or more numbers.
+7. `Math.pow()`: Returns the base to the exponent power.
+8. `Math.random()`: Returns a random floating-point number between 0 and 1.
+9. `Math.sin()`: Returns the sine of a number.
+10. `Math.cos()`: Returns the cosine of a number.
+11. `Math.tan()`: Returns the tangent of a number.
+12. `Math.sqrt()`: Returns the square root of a number.
+13. `Math.log()`: Returns the natural logarithm of a number.
+14. `Math.exp()`: Returns the value of E raised to the power of a number.
+15. `Math.PI`: A property representing the mathematical constant π (pi).
+16. `Math.E`: A property representing the base of the natural logarithm.

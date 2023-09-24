@@ -1,0 +1,5 @@
+
+
+**RegExp Object Methods:**
+1. `test()`
+2. `exec()`

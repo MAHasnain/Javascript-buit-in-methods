@@ -1,0 +1,5 @@
+**Console Object Methods:**
+1. `log()`
+2. `error()`
+3. `warn()`
+4. `info()`

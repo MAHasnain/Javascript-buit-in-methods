@@ -1,0 +1,21 @@
+**Array Methods:**
+1. `push()`
+2. `pop()`
+3. `shift()`
+4. `unshift()`
+5. `concat()`
+6. `join()`
+7. `slice()`
+8. `splice()`
+9. `indexOf()`
+10. `lastIndexOf()`
+11. `filter()`
+12. `map()`
+13. `reduce()`
+14. `forEach()`
+15. `some()`
+16. `every()`
+
+
+
+

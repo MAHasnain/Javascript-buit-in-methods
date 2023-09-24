@@ -1,0 +1,6 @@
+**Global Object Functions:**
+1. `parseInt()`
+2. `parseFloat()`
+3. `isNaN()`
+4. `isFinite()`
+5. `eval()`
